@@ -20,7 +20,7 @@ This portfolio showcases Proofs of Concept built using an **AI-augmented, prompt
 ---
 
 <div align="center">
-
-[Purity Seal]
+  
+<img width="1146" height="686" alt="image" src="https://github.com/user-attachments/assets/949e1584-6374-4d10-8bd7-b49a425e4e74" />
 
 </div>
